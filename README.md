@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Kamran👋
+
+I'm an Information Engineering Student who loves programming.
+Skills: C, Java, Python (Tkinter), MySQL, SQLite
+
+### 📞 Contact
+
 
 <!--
 **Kamran-Dev/Kamran-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
