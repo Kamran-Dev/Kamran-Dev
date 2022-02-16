@@ -5,6 +5,10 @@ Skills: C, Java, Python (Tkinter), MySQL, SQLite
 
 ![Visitor Count](https://profile-counter.glitch.me/{Kamran-Dev}/count.svg)
 
+curl https://profile-counter.glitch.me/{Kamran-Dev}/count.svg
+
+
+
 
 ### 📞 Contact
 
