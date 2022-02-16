@@ -9,7 +9,7 @@ Skills: C, Java, Python (Tkinter), MySQL, SQLite
 
 
 
-### 📞 Contact
+### 📞 Contacts
 
 
 <!--
