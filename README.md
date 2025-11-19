@@ -6,12 +6,6 @@ Skills: C, Java, Python (Tkinter), MySQL, SQLite
 ### You are visitor: 
 ![Visitor Count](https://profile-counter.glitch.me/{Kamran-Dev}/count.svg)
 
-
-
-
-### 📞 Contacts
-
-
 <!--
 **Kamran-Dev/Kamran-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
